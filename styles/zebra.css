@@ -1,0 +1,53 @@
+html {
+  font-size: 16px; /* px значит 'пиксели': базовый шрифт будет 16 пикселей в высоту  */
+  font-family: 'Lobster', cursive;
+}
+
+h1 {
+  font-size: 90px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #E16227 ;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #5CCF5C;
+  padding: 0 25px 25px 25px;
+  border: 25px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 100px 0;
+  color: #E16227;
+  text-shadow: 8px 9px 1px white;
+}
+
+h2 {
+  margin: 0;
+  padding: 50px;
+  color: #E16227;
+  text-shadow: 8px 9px 1px white;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 600px;
+}
